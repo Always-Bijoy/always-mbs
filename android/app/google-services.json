@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294543522876",
+    "project_id": "alwayss-mbs",
+    "storage_bucket": "alwayss-mbs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294543522876:android:85cc66d515082e5f9e9739",
+        "android_client_info": {
+          "package_name": "com.alwayss.mbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294543522876-2bo864b2kk5r3dk7osmqt3pjgvm9duak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqYSu6Z1MLPgssC7V-pT11SIm7vH9mE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294543522876-2bo864b2kk5r3dk7osmqt3pjgvm9duak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
