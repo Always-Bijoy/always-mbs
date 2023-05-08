@@ -147,7 +147,7 @@ class _SignupPageState extends State<SignupPage> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
-                            const Text('Already have an account ? ', style: TextStyle(fontSize: 13, color: Color(0xff939393), fontWeight: FontWeight.bold),),
+                            const Text('Already have an account ?', style: TextStyle(fontSize: 13, color: Color(0xff939393), fontWeight: FontWeight.bold),),
                             GestureDetector(
                               onTap: () => {
                                 Navigator.push(context, MaterialPageRoute(builder: (context) => const LoginPage()))
